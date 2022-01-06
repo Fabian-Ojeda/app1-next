@@ -36,7 +36,7 @@ export default function Layout({children, title, description, home, nameIn}) {
                             <a>
                                 <Image
                                     priority
-                                    src="/imgs/logo.png   "
+                                    src="/imgs/logo.png"
                                     className={utilStyles.borderCircle}
                                     height={108}
                                     width={108}
